@@ -4,7 +4,7 @@
 
 1. 本文内でPHPコードを扱えるように、Exec-PHPなどのプラグインをインストールする。
 
-2. 本プラグインを /wp-content/plugins/akio-omotta/ にインストールする。
+2. 「akio-omotta」ディレクトリを、/wp-content/plugins/ にコピーする。
 
 3. 管理画面のプラグイン一覧で「Akio Omotta」を有効化する。
 
