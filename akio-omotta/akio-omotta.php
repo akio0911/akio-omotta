@@ -9,7 +9,7 @@ Author URI: http://akio0911.net
 */
 
 function show_akio_omotta() {
-	$img_path = plugins_url( 'akio0911-icon-20130912.png' , __FILE__ );
+	$img_path = plugins_url( 'akio0911-20131104-160x160@2x.png' , __FILE__ );
 
 echo <<<EOD
 
